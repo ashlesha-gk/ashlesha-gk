@@ -44,6 +44,6 @@
 
 ---
 
-### My Stats :
+<!-- ### My Stats : -->
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ashlesha-gk&theme=github-dark-blue&hide_border=true" alt="ashlesha-gk"/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashlesha-gk&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashlesha-gk&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/> -->
