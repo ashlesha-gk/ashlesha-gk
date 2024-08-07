@@ -3,13 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" height="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" height="500"/>
 </p>
 <!-- https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png -->
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ashlesha-gk)
-
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast.
 
@@ -27,7 +25,7 @@
   </a>
 </div>
 
----
+
 
 ### Languages and Tools :
 <div>
@@ -43,7 +41,6 @@
 
 </div>
 
----
 
 <!-- ### My Stats : -->
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ashlesha-gk&theme=github-dark-blue&hide_border=true" alt="ashlesha-gk"/>
