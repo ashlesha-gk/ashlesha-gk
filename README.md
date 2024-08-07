@@ -8,6 +8,7 @@
 <!-- https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png -->
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=ashlesha-gk)
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast.
