@@ -9,8 +9,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashlesha-gk)
 
-#- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast.
-
 - 🎓 Computer Science (Cyber Security) undergraduate student.
 
 - :telescope: Intellectually exploring planet Earth.
